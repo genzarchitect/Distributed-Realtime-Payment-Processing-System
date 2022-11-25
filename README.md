@@ -26,9 +26,9 @@ This project aims to develop a highly scalable and fault-tolerant real-time paym
 
 ## Images
 
-<img width="670" alt="Mongo_Tran" src="https://github.com/user-attachments/assets/01d9efb8-778e-4c8a-9d95-094a57b22eae" />
+<img width="670" alt="Mongo_Tran" src="https://github.com/user-attachments/assets/3d552943-f50a-4454-ba81-a263ca1487c9" />
 
-<img width="670" alt="PostgreSQL_Tran" src="https://github.com/user-attachments/assets/85f1cce2-6b10-4d6e-9086-758ca7228fc4" />
+<img width="670" alt="PostgreSQL_Tran" src="https://github.com/user-attachments/assets/1810c7e7-ad33-4b38-9aa8-36ba344753af" />
 
 ## Technology Stack
 
